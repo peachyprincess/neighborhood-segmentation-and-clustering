@@ -1,5 +1,6 @@
 .ipynb_checkpoints
 *.csv
+*.json
 pat
 client_id
 client_secret
