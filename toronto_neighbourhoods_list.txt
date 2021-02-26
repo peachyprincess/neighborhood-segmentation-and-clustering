@@ -1,4 +1,4 @@
---- District: Old Toronto ---
+--Old Toronto
 Alexandra Park
 The Annex
 Baldwin Village
@@ -93,7 +93,7 @@ Seaton Village
 Swansea
 Trinity–Bellwoods
 Wallace Emerson
---- District: East York ---
+--East York
 Broadview North
 Crescent Town
 East Danforth
@@ -104,7 +104,7 @@ Governor's Bridge
 Leaside
 O'Connor–Parkview
 Thorncliffe Park
---- District: Etobicoke ---
+--Etobicoke
 Alderwood
 Centennial Park
 Clairville
@@ -133,7 +133,7 @@ Thorncrest Village
 West Humber-Clairville
 West Deane Park
 Willowridge
---- District: North York---
+--North York
 Amesbury
 Armour Heights
 Bathurst Manor
@@ -172,7 +172,7 @@ Westminster–Branson
 Willowdale
 York Mills
 York University Heights,(Village at York)
---- District: Scarborough  ---
+--Scarborough
 Agincourt
 Armadale
 Bendale,(Cedarbrae)
@@ -206,7 +206,7 @@ West Hill
 West Rouge
 Wexford
 Woburn
--- District: York ---
+--York
 Baby Point
 Briar Hill–Belgravia
 Eglinton West,(Little Jamaica)
